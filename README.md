@@ -1,72 +1,119 @@
-# ☀️ Projeto Shining Sun
+# ☀️ Projeto Shining Sun – Energia Solar Acessível
 
-## 🧭 Missão
-Desenvolver soluções inovadoras e acessíveis no campo da energia solar, facilitando a instalação e a gestão de sistemas fotovoltaicos com tecnologias acessíveis e eficientes.
-
-## 🔭 Visão
-Ser referência nacional em tecnologia aplicada à energia solar até 2028, democratizando o acesso à energia limpa.
-
-## 🧱 Valores
-- Transparência  
-- Inclusão  
-- Qualidade de código  
-- Foco no usuário  
-- Inovação contínua  
+## 🎓 Tema do TCC  
+**Tecnologia Social em Energia Solar: Soluções Acessíveis para Comunidades de Baixa Renda com Autonomia Energética**
 
 ---
 
-## 🎯 OKRs – Ciclo de 6 Meses
+## 📋 Status Report
 
-### Objetivo 1: Aumentar a adoção de tecnologias solares inovadoras
-- ✅ KR1: Desenvolver 3 protótipos de tecnologias solares  
-  - ☑️ Sun Block – *em andamento*  
-  - ✅ Loop Grid – *concluído*  
-  - ⬜ Terceiro protótipo – *a definir*
-- 🔄 KR2: Coletar 20 feedbacks de usuários
-- 🔄 KR3: Validar os protótipos em testes de campo
+### 📌 Status Atual  
+O projeto está no **mês 4 de 6**. Os protótipos **Sun Block** e **Loop Grid** estão finalizados. A homepage de orçamento e o aplicativo técnico estão funcionais, aguardando apenas a atualização de preços para apresentação final.
 
-### Objetivo 2: Facilitar a orçamentação de sistemas solares
-- 🔄 KR1: Ferramenta de orçamento (prazo: mês 3)
-- 🔄 KR2: 80% dos orçamentos sem intervenção humana
-- 🔄 KR3: Página inicial funcional com orçamento interativo
+---
 
-### Objetivo 3: Criar soluções de armazenamento de energia de baixo custo
-- 🔄 KR1: Finalizar protótipo Sun Block (prazo: mês 4)
-- ✅ KR2: Concluir Loop Grid (mês 5)
+## 🔁 Iterações
+
+| Sprint   | Status        | Tarefas Chave                                    |
+|----------|---------------|--------------------------------------------------|
+| Sprint 1 | ✅ Concluído   | Estruturação geral e alinhamento da tese        |
+| Sprint 2 | ✅ Concluído   | Setup técnico inicial e pesquisas de campo       |
+| Sprint 3 | 🔄 Em andamento | MVP orçamento (homepage)                        |
+| Sprint 4 | ✅ Concluído   | Finalização do protótipo **Sun Block**          |
+| Sprint 5 | ✅ Concluído   | Finalização do protótipo **Loop Grid**          |
+| Sprint 6 | 🔄 Em andamento | Apresentação e documentação final               |
+
+---
+
+## 📈 Porcentagem de Conclusão
+
+**Progresso Geral Estimado:** **90%**
+
+| Componente                  | Status           | Peso Estimado | Conclusão |
+|----------------------------|------------------|----------------|-----------|
+| Loop Grid                  | ✅ Concluído      | 25%            | 25%       |
+| Sun Block                  | ✅ Concluído      | 25%            | 25%       |
+| Homepage Orçamento         | ✅ Funcional      | 20%            | 20%       |
+| Aplicativo Técnico         | ✅ Funcional      | 15%            | 15%       |
+| Documentação/Apresentação  | 🔄 Em andamento   | 15%            | 5%        |
+
+---
+
+## ⚠️ Riscos
+
+| Risco                                         | Probabilidade | Impacto | Mitigação                                  |
+|----------------------------------------------|----------------|----------|---------------------------------------------|
+| Atualização de valores de mercado            | Alta           | Médio    | Monitoramento contínuo de fornecedores       |
+| Validação prática dos protótipos             | Média          | Alto     | Testes simulados e relatórios técnicos       |
+
+---
+
+## 🎯 Direcionadores OKR
+
+### Objetivo 1: Prototipar soluções solares acessíveis
+- ✅ KR1: Finalizar Loop Grid  
+- ✅ KR2: Finalizar Sun Block  
+- 🔄 KR3: Validar protótipos com técnicos
+
+### Objetivo 2: Oferecer orçamento facilitado
+- ✅ KR1: Desenvolver homepage com orçamentos inteligentes  
+- 🔄 KR2: Atualizar preços e preparar apresentação  
+- ✅ KR3: Três perfis de consumo (Basic, Smart, Premium)
+
+### Objetivo 3: Empoderar técnicos com aplicação prática
+- ✅ KR1: Criar app com assistente técnico  
+- 🔄 KR2: Validar usabilidade com profissionais da área
 
 ---
 
 ## 📊 KPIs – Indicadores de Desempenho
 
-| Indicador                      | Meta         | Atual |
-|-------------------------------|--------------|-------|
-| Protótipos desenvolvidos       | 3            | 2     |
-| Protótipos demonstrados        | 3            | 1     |
-| Testes de campo realizados     | 3            | 0     |
-| Feedbacks coletados            | 20           | 0     |
+| Indicador                    | Meta | Atual |
+|-----------------------------|------|-------|
+| Protótipos finalizados      | 2    | 2     |
+| Aplicativo funcional        | 1    | 1     |
+| Feedbacks coletados         | 40   | 40    |
+
+---
+
+## 🎯 Estratégia SMART
+
+**S** – Criar soluções solares autônomas e acessíveis  
+**M** – 2 protótipos, 1 app, 1 sistema de orçamento  
+**A** – Dividido em 6 sprints com entregas concretas  
+**R** – Reduz barreiras ao acesso à energia limpa  
+**T** – Execução em 6 meses com validação prática
 
 ---
 
 ## 🗺️ Roadmap (6 Meses)
 
-| Mês | Meta Principal               | Status          |
-|-----|------------------------------|-----------------|
-| 1   | Planejamento                 | ✅ Concluído     |
-| 2   | Prototipação inicial         | ✅ Concluído     |
-| 3   | MVP 1 – orçamento online     | 🔄 Em andamento  |
-| 4   | MVP 2 + Sun Block            | 🔄 Em andamento  |
-| 5   | Testes Loop Grid             | ✅ Concluído     |
-| 6   | Apresentação final           | 🔄 Em andamento  |
+| Mês | Meta Principal                | Status          |
+|-----|-------------------------------|------------------|
+| 1   | Planejamento e pesquisa        | ✅ Concluído     |
+| 2   | Protótipos e estrutura de app  | ✅ Concluído     |
+| 3   | **Documentação**              | 🔄 Em andamento  |
+| 4   | Finalização Sun Block          | ✅ Concluído     |
+| 5   | Finalização Loop Grid          | ✅ Concluído     |
+| 6   | Apresentação final e entrega   | 🔄 Em andamento  |
 
 ---
 
-## ✅ Status dos Sprints
+## ⚙️ Capacidades e Funcionalidades para GitHub
 
-| Sprint     | Status         | Tarefas Chave                                |
-|------------|----------------|-----------------------------------------------|
-| Sprint 1   | ✅ Concluído    | Estruturação do projeto                      |
-| Sprint 2   | ✅ Concluído    | Setup técnico inicial                        |
-| Sprint 3   | 🔄 Em andamento | MVP com orçamento interativo                 |
-| Sprint 4   | 🔄 Em andamento | Melhorias baseadas em feedbacks              |
-| Sprint 5   | ⬜️ Não iniciado | Estratégias de alcance e comunidade          |
-| Sprint 6   | 🔄 Em andamento | Apresentação final e documentação            |
+- 📁 Repositórios: Sun Block, Loop Grid, App Técnico, Homepage  
+- 📊 Logs e testes de validação incluídos  
+- 📚 Wiki com instruções técnicas e documentação do projeto  
+- 🌐 Homepage funcional de orçamento interativo  
+- 📱 App de suporte à instalação com geração de ficha técnica  
+
+---
+
+## 👥 Equipe do Projeto
+
+- **Willian – ETEC**  
+- **Kevin Araújo**  
+- **Carlos Alves**  
+- **Khaique**  
+- **Tainara**  
+- **José Victor**
