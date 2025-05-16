@@ -12,7 +12,7 @@ O projeto está no **mês 5 de 6**.
 
 - Protótipos **Sun Block** (falta montagem) e **Loop Grid** (montado) estão finalizados.
 - **Landing Page** e **Aplicativo Técnico** estão funcionais, aguardando atualização de preços.
-- O **Market** está com 50% concluído.
+- A **Market** está com 50% concluído.
 
 ### 🆕 Atualizações Importantes
 - As funções originalmente atribuídas ao membro responsável pelo **Loop Grid** foram redistribuídas após sua desistência do curso, sendo reassumidas por outro membro da equipe.
