@@ -120,7 +120,7 @@ O projeto está no **mês 5 de 6**.
 
 - **Willian** – ETEC  
 - **Kevin Araújo**  
-- **Carlos Alves**  
+- **Carlos Alves**  *(Novo responsável por parte do projeto Loop Grid após redistribuição de tarefas)*
 - **Khaique**  
 - **Tainara**  
-- **José Victor** *(Novo responsável por parte do projeto Loop Grid após redistribuição de tarefas)*
+- **José Victor** 
